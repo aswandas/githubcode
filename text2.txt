@@ -1,1 +1,15 @@
-create text2.txt file
+#include<stdio.h>
+int main()
+{
+int a,b,sum=0,n;
+printf("\n Enter the no.of elements\n");
+scanf("%d",&nn=a);
+printf("\n Enter the elements");
+for(i=0;i<n;i++)
+{
+n=a+b;
+a=b/10;
+b=n;
+}
+return 0;
+
